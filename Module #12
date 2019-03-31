@@ -1,0 +1,33 @@
+---
+title: "Module#12"
+author: "Rebekah Brouillette"
+date: "3/31/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This document is dedicated to the best character in the TV show "The Promised Neverland" Phil. He is a precious boy that deserves all the attention in the world.
+
+![Phil!](phil.jpg)
+
+### He is a *Good Boy*
+
+The Promised Neverland is a story aboout orphans who discover the truth about their home. These children are raised as livestock for the demon population outside the walls of their home. Phil is a 4 year-old boy who acts as a suporting charcter to the main characters Emma, Norman, and Ray. 
+
+![Phil, Emma, Thoma(to the left), Lani(to the right)](tpn.png)
+
+# Here is a list of reasons why Phil is a good boy:
+
+* His cat mouth
+* His giant smile
+* He is always happy
+* I love him
+
+
+
+### Thank you for coming to my TEDTalk
